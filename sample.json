@@ -1,0 +1,298 @@
+{
+    "id": "434020308005968",
+    "title": "रोड पर चल रहे लोगों को कलेक्टर साहब ने बुलाया",
+    "formats": [
+        {
+        "format_id": "999620340839463a",
+        "manifest_url": null,
+        "ext": "m4a",
+        "width": null,
+        "height": null,
+        "tbr": 65.364,
+        "asr": 48000,
+        "fps": null,
+        "language": "eng",
+        "format_note": "DASH audio",
+        "filesize": null,
+        "container": "m4a_dash",
+        "vcodec": "null",
+        "acodec": "mp4a.40.5",
+        "url": "https://video.fdel12-1.fna.fbcdn.net/v/t42.1790-2/241608607_999620347506129_9076551711095238249_n.mp4?_nc_cat=1&ccb=1-5&_nc_sid=5aebc0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYXVkaW9fYWFjcF82NF9mcmFnXzJfYXVkaW8ifQ==&_nc_ohc=9erIRlf2xE8AX9odp4L&_nc_ht=video.fdel12-1.fna&oh=06c733d859a99db9cb476c0a67891958&oe=61431C97",
+        "http_headers": {
+            "User-Agent": "facebookexternalhit/1.1",
+            "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate",
+            "Accept-Language": "en-us,en;q=0.5"
+        },
+        "format": "999620340839463a - audio only (DASH audio)",
+        "protocol": "https"
+    }, {
+        "format_id": "181118764093409v",
+        "manifest_url": null,
+        "ext": "webm",
+        "width": 426,
+        "height": 426,
+        "tbr": 96.155,
+        "asr": null,
+        "fps": null,
+        "language": null,
+        "format_note": "DASH video",
+        "filesize": null,
+        "container": "webm_dash",
+        "vcodec": "vp9",
+        "acodec": "null",
+        "url": "https://video.fdel12-1.fna.fbcdn.net/v/t39.25447-2/241748925_584758742576521_7579837210297206972_n.webm?_nc_cat=1&ccb=1-5&_nc_sid=5aebc0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5XzVzZWNnb3BfbWlucmVzX2hhbG9fOTVrX2ZyYWdfMl92aWRlbyJ9&_nc_ohc=rZe9l1Cec0oAX-7hr9i&_nc_ht=video.fdel12-1.fna&oh=f773e1894385a2049bfee699308c0b93&oe=61480BE0",
+        "http_headers": {
+            "User-Agent": "facebookexternalhit/1.1",
+            "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate",
+            "Accept-Language": "en-us,en;q=0.5"
+        },
+        "format": "181118764093409v - 426x426 (DASH video)",
+        "protocol": "https"
+    }, {
+        "format_id": "174191094781277v",
+        "manifest_url": null,
+        "ext": "webm",
+        "width": 426,
+        "height": 426,
+        "tbr": 209.842,
+        "asr": null,
+        "fps": null,
+        "language": null,
+        "format_note": "DASH video",
+        "filesize": null,
+        "container": "webm_dash",
+        "vcodec": "vp9",
+        "acodec": "null",
+        "url": "https://video.fdel12-1.fna.fbcdn.net/v/t39.25447-2/241753062_252371026756483_2109115191277410497_n.webm?_nc_cat=1&ccb=1-5&_nc_sid=5aebc0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5XzVzZWNnb3BfbWlucmVzX2hhbG9fMjEwa19mcmFnXzJfdmlkZW8ifQ==&_nc_ohc=1GJcR7GgWhUAX-B4Qbv&_nc_ht=video.fdel12-1.fna&oh=5d68be0c8f406d2959d9c80fbd2e6be9&oe=6147671A",
+        "http_headers": {
+            "User-Agent": "facebookexternalhit/1.1",
+            "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate",
+            "Accept-Language": "en-us,en;q=0.5"
+        },
+        "format": "174191094781277v - 426x426 (DASH video)",
+        "protocol": "https"
+    }, {
+        "format_id": "963668380881264v",
+        "manifest_url": null,
+        "ext": "webm",
+        "width": 640,
+        "height": 640,
+        "tbr": 398.035,
+        "asr": null,
+        "fps": null,
+        "language": null,
+        "format_note": "DASH video",
+        "filesize": null,
+        "container": "webm_dash",
+        "vcodec": "vp9",
+        "acodec": "null",
+        "url": "https://video.fdel12-1.fna.fbcdn.net/v/t39.25447-2/10000000_894417621506765_309696481292663629_n.webm?_nc_cat=1&ccb=1-5&_nc_sid=5aebc0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5XzVzZWNnb3BfbWlucmVzX2hhbG9fNDAwa19mcmFnXzJfdmlkZW8ifQ==&_nc_ohc=F4S7JAvr1poAX_b4fhe&_nc_ht=video.fdel12-1.fna&oh=a5df81d7b1799c6e10c41141ec2dfc75&oe=6147561E",
+        "http_headers": {
+            "User-Agent": "facebookexternalhit/1.1",
+            "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate",
+            "Accept-Language": "en-us,en;q=0.5"
+        },
+        "format": "963668380881264v - 640x640 (DASH video)",
+        "protocol": "https"
+    }, {
+        "format_id": "1685148775024514v",
+        "manifest_url": null,
+        "ext": "webm",
+        "width": 854,
+        "height": 854,
+        "tbr": 735.197,
+        "asr": null,
+        "fps": null,
+        "language": null,
+        "format_note": "DASH video",
+        "filesize": null,
+        "container": "webm_dash",
+        "vcodec": "vp9",
+        "acodec": "null",
+        "url": "https://video.fdel12-1.fna.fbcdn.net/v/t39.25447-2/10000000_384810039911418_4775020532917334784_n.webm?_nc_cat=1&ccb=1-5&_nc_sid=5aebc0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5XzVzZWNnb3BfbWlucmVzX2hhbG9fNzUwa19mcmFnXzJfdmlkZW8ifQ==&_nc_ohc=x49ZmhhLu3IAX84uDHI&_nc_ht=video.fdel12-1.fna&oh=d4361c79feee53a8008e732f87720e84&oe=6147488C",
+        "http_headers": {
+            "User-Agent": "facebookexternalhit/1.1",
+            "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate",
+            "Accept-Language": "en-us,en;q=0.5"
+        },
+        "format": "1685148775024514v - 854x854 (DASH video)",
+        "protocol": "https"
+    }, {
+        "format_id": "349834980204173v",
+        "manifest_url": null,
+        "ext": "webm",
+        "width": 1080,
+        "height": 1080,
+        "tbr": 1370.783,
+        "asr": null,
+        "fps": null,
+        "language": null,
+        "format_note": "DASH video",
+        "filesize": null,
+        "container": "webm_dash",
+        "vcodec": "vp9",
+        "acodec": "null",
+        "url": "https://video.fdel12-1.fna.fbcdn.net/v/t39.25447-2/10000000_114781517595836_6083916726150392357_n.webm?_nc_cat=1&ccb=1-5&_nc_sid=5aebc0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5XzVzZWNnb3BfbWlucmVzX2hhbG9fMTUwMGtfZnJhZ18yX3ZpZGVvIn0=&_nc_ohc=5V_W12RXGyAAX-8pz4v&_nc_ht=video.fdel12-1.fna&oh=0766e6628616220dd9dd47c36ad977ce&oe=6147EDC5",
+        "http_headers": {
+            "User-Agent": "facebookexternalhit/1.1",
+            "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate",
+            "Accept-Language": "en-us,en;q=0.5"
+        },
+        "format": "349834980204173v - 1080x1080 (DASH video)",
+        "protocol": "https"
+    }, {
+        "format_id": "dash_sd_src",
+        "url": "https://video.fdel12-1.fna.fbcdn.net/v/t42.1790-2/241517589_275101217783454_4338328477961338147_n.mp4?_nc_cat=102&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjUzMiwicmxhIjoxMDMzLCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=ztJ0dnG2MqcAX9BQun7&rl=532&vabr=296&_nc_ht=video.fdel12-1.fna&oh=8aee596c5474d2afec353e8da8863038&oe=61431C95",
+        "preference": 0,
+        "http_headers": {
+            "User-Agent": "facebookexternalhit/1.1",
+            "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate",
+            "Accept-Language": "en-us,en;q=0.5"
+        },
+        "ext": "mp4",
+        "format": "dash_sd_src - unknown",
+        "protocol": "https"
+    }, {
+        "format_id": "dash_sd_src_no_ratelimit",
+        "url": "https://video.fdel12-1.fna.fbcdn.net/v/t42.1790-2/241517589_275101217783454_4338328477961338147_n.mp4?_nc_cat=102&ccb=1-5&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=ztJ0dnG2MqcAX9BQun7&_nc_ht=video.fdel12-1.fna&oh=8aee596c5474d2afec353e8da8863038&oe=61431C95",
+        "preference": 0,
+        "http_headers": {
+            "User-Agent": "facebookexternalhit/1.1",
+            "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate",
+            "Accept-Language": "en-us,en;q=0.5"
+        },
+        "ext": "mp4",
+        "format": "dash_sd_src_no_ratelimit - unknown",
+        "protocol": "https"
+    }, {
+        "format_id": "dash_hd_src",
+        "url": "https://video.fdel12-1.fna.fbcdn.net/v/t42.27313-2/10000000_325921532639713_3713501635746010190_n.mp4?_nc_cat=109&vs=824b05deec039350&_nc_vs=HBksFQAYJEdJQ1dtQURoZVMyRmJDZ0JBRTRVZVE4UUFva3pickZxQUFBRhUAAsgBABUAGCRHUElOWmc0NkFPNzF3S0VEQU9aVFpuaWNiWFZIYnJGcUFBQUYVAgLIAQBLBogScHJvZ3Jlc3NpdmVfcmVjaXBlATEgbWVhc3VyZV9vcmlnaW5hbF9yZXNvbHV0aW9uX3NzaW0AKGNvbXB1dGVfc3NpbV9vbmx5X2F0X29yaWdpbmFsX3Jlc29sdXRpb24AEWRpc2FibGVfcG9zdF9wdnFzAA1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViABUAJQAcAAAmzOqXnqevxQEVAigCQzMYC3Z0c19wcmV2aWV3HBdAZ0euFHrhSBgnZGFzaF9nZW4zYmFzaWNfNXNlY2dvcF9ocTFfZnJhZ18yX3ZpZGVvEgAYGHZpZGVvcy52dHMuY2FsbGJhY2sucHJvZDgSVklERU9fVklFV19SRVFVRVNUGwiIFW9lbV90YXJnZXRfZW5jb2RlX3RhZwZvZXBfaGQTb2VtX3JlcXVlc3RfdGltZV9tcw0xNjMxNzgwNjM0ODE0DG9lbV9jZmdfcnVsZQd1bm11dGVkE29lbV9yb2lfcmVhY2hfY291bnQHMjIzNDM1MAxvZW1fdmlkZW9faWQPNDM0MDIwMzA4MDA1OTY4Em9lbV92aWRlb19hc3NldF9pZA80MzQwMjAzMDQ2NzI2MzUVb2VtX3ZpZGVvX3Jlc291cmNlX2lkDzQzNDAyMDMwMTMzOTMwMhxvZW1fc291cmNlX3ZpZGVvX2VuY29kaW5nX2lkEDE0OTA5NjgwMzEyNjcwMTAlAhwAJb4BGweIAXMENTkxMgJjZAoyMDIxLTA5LTA3A3JjYgcyMjM0MzAwA2FwcBLgpLXgpYDgpKHgpL%2FgpK%2FgpYsCY3QZQ09OVEFJTkVEX1BPU1RfQVRUQUNITUVOVBNvcmlnaW5hbF9kdXJhdGlvbl9zBjE4Ni4yNAJ0cw9vZXBfcHJvZ3Jlc3NpdmUA&ccb=1-5&_nc_sid=b16ca8&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=d7OgVOzeV9YAX8HO77S&_nc_ht=video.fdel12-1.fna&oh=bd9d21fa2ea416ae8b21243a4ca7b7e8&oe=61432668&_nc_rid=dcb600011caa42d&_nc_vts_prog=1&vts=1&_nc_vts_internal=1",
+        "preference": 5,
+        "http_headers": {
+            "User-Agent": "facebookexternalhit/1.1",
+            "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate",
+            "Accept-Language": "en-us,en;q=0.5"
+        },
+        "ext": "mp4",
+        "format": "dash_hd_src - unknown",
+        "protocol": "https"
+    }, {
+        "format_id": "dash_hd_src_no_ratelimit",
+        "url": "https://video.fdel12-1.fna.fbcdn.net/v/t42.27313-2/10000000_325921532639713_3713501635746010190_n.mp4?_nc_cat=109&vs=824b05deec039350&_nc_vs=HBksFQAYJEdJQ1dtQURoZVMyRmJDZ0JBRTRVZVE4UUFva3pickZxQUFBRhUAAsgBABUAGCRHUElOWmc0NkFPNzF3S0VEQU9aVFpuaWNiWFZIYnJGcUFBQUYVAgLIAQBLBogScHJvZ3Jlc3NpdmVfcmVjaXBlATEgbWVhc3VyZV9vcmlnaW5hbF9yZXNvbHV0aW9uX3NzaW0AKGNvbXB1dGVfc3NpbV9vbmx5X2F0X29yaWdpbmFsX3Jlc29sdXRpb24AEWRpc2FibGVfcG9zdF9wdnFzAA1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViABUAJQAcAAAmzOqXnqevxQEVAigCQzMYC3Z0c19wcmV2aWV3HBdAZ0euFHrhSBgnZGFzaF9nZW4zYmFzaWNfNXNlY2dvcF9ocTFfZnJhZ18yX3ZpZGVvEgAYGHZpZGVvcy52dHMuY2FsbGJhY2sucHJvZDgSVklERU9fVklFV19SRVFVRVNUGwiIFW9lbV90YXJnZXRfZW5jb2RlX3RhZwZvZXBfaGQTb2VtX3JlcXVlc3RfdGltZV9tcw0xNjMxNzgwNjM0ODE0DG9lbV9jZmdfcnVsZQd1bm11dGVkE29lbV9yb2lfcmVhY2hfY291bnQHMjIzNDM1MAxvZW1fdmlkZW9faWQPNDM0MDIwMzA4MDA1OTY4Em9lbV92aWRlb19hc3NldF9pZA80MzQwMjAzMDQ2NzI2MzUVb2VtX3ZpZGVvX3Jlc291cmNlX2lkDzQzNDAyMDMwMTMzOTMwMhxvZW1fc291cmNlX3ZpZGVvX2VuY29kaW5nX2lkEDE0OTA5NjgwMzEyNjcwMTAlAhwAJb4BGweIAXMENTkxMgJjZAoyMDIxLTA5LTA3A3JjYgcyMjM0MzAwA2FwcBLgpLXgpYDgpKHgpL%2FgpK%2FgpYsCY3QZQ09OVEFJTkVEX1BPU1RfQVRUQUNITUVOVBNvcmlnaW5hbF9kdXJhdGlvbl9zBjE4Ni4yNAJ0cw9vZXBfcHJvZ3Jlc3NpdmUA&ccb=1-5&_nc_sid=b16ca8&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=d7OgVOzeV9YAX8HO77S&_nc_ht=video.fdel12-1.fna&oh=bd9d21fa2ea416ae8b21243a4ca7b7e8&oe=61432668&_nc_rid=43a2ffdf02cb452&_nc_vts_prog=1&vts=1&_nc_vts_internal=1",
+        "preference": 5,
+        "http_headers": {
+            "User-Agent": "facebookexternalhit/1.1",
+            "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate",
+            "Accept-Language": "en-us,en;q=0.5"
+        },
+        "ext": "mp4",
+        "format": "dash_hd_src_no_ratelimit - unknown",
+        "protocol": "https"
+    }],
+    "uploader": "Pen Movies - रोड पर चल रहे लोगों को कलेक्टर साहब ने बुलाया | Facebook",
+    "timestamp": 1631779100,
+    "thumbnail": "https://scontent.fdel12-1.fna.fbcdn.net/v/t15.5256-10/241600041_434109457997053_6918094466647331875_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=776239&_nc_ohc=755F0sUvFYcAX_rLoi2&_nc_ht=scontent.fdel12-1.fna&oh=72c1517cd8ac6fe815aef0635a8d10b6&oe=61489A41",
+    "view_count": null,
+    "subtitles": {
+        "en": [{
+            "url": "https://scontent.fdel12-1.fna.fbcdn.net/v/t39.2093-6/241636586_532493671305692_3880040230782422110_n.srt?_nc_cat=110&ccb=1-5&_nc_sid=bf5691&_nc_ohc=r8sKOglzyssAX-iK_Gu&_nc_ht=scontent.fdel12-1.fna&oh=621ec450d1ce5a9505037b000c651038&oe=6148DB63",
+            "ext": "srt"
+        }]
+    },
+    "extractor": "facebook",
+    "webpage_url": "https://www.facebook.com/PenMovies/videos/%E0%A4%B0%E0%A5%8B%E0%A4%A1-%E0%A4%AA%E0%A4%B0-%E0%A4%9A%E0%A4%B2-%E0%A4%B0%E0%A4%B9%E0%A5%87-%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-%E0%A4%95%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%B0-%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%AC-%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AF%E0%A4%BE/434020308005968/?__cft__[0]=AZVQ-uYLd7gQtfzER6Q_o8Sm_1J1LW-FNR2EtYd8OYMFEQ7UzTH2E5SY01nRDk5mTSQrvdFUo4E8bdCJsV7jCsFDSkvgl8WeCo8GEx0RWG4PlDF4BoxeCoyumUSontCjclcEAFEhSOk7pcc6lk08yfYDnY1w0YitCvOkFQz4u-eVqw",
+    "webpage_url_basename": "434020308005968",
+    "extractor_key": "Facebook",
+    "playlist": null,
+    "playlist_index": null,
+    "thumbnails": [{
+        "url": "https://scontent.fdel12-1.fna.fbcdn.net/v/t15.5256-10/241600041_434109457997053_6918094466647331875_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=776239&_nc_ohc=755F0sUvFYcAX_rLoi2&_nc_ht=scontent.fdel12-1.fna&oh=72c1517cd8ac6fe815aef0635a8d10b6&oe=61489A41",
+        "id": "0"
+    }],
+    "display_id": "434020308005968",
+    "upload_date": "20210916",
+    "requested_subtitles": null,
+    "requested_formats": ({
+        "format_id": "349834980204173v",
+        "manifest_url": null,
+        "ext": "webm",
+        "width": 1080,
+        "height": 1080,
+        "tbr": 1370.783,
+        "asr": null,
+        "fps": null,
+        "language": null,
+        "format_note": "DASH video",
+        "filesize": null,
+        "container": "webm_dash",
+        "vcodec": "vp9",
+        "acodec": "null",
+        "url": "https://video.fdel12-1.fna.fbcdn.net/v/t39.25447-2/10000000_114781517595836_6083916726150392357_n.webm?_nc_cat=1&ccb=1-5&_nc_sid=5aebc0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5XzVzZWNnb3BfbWlucmVzX2hhbG9fMTUwMGtfZnJhZ18yX3ZpZGVvIn0=&_nc_ohc=5V_W12RXGyAAX-8pz4v&_nc_ht=video.fdel12-1.fna&oh=0766e6628616220dd9dd47c36ad977ce&oe=6147EDC5",
+        "http_headers": {
+            "User-Agent": "facebookexternalhit/1.1",
+            "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate",
+            "Accept-Language": "en-us,en;q=0.5"
+        },
+        "format": "349834980204173v - 1080x1080 (DASH video)",
+        "protocol": "https"
+    }, {
+        "format_id": "999620340839463a",
+        "manifest_url": null,
+        "ext": "m4a",
+        "width": null,
+        "height": null,
+        "tbr": 65.364,
+        "asr": 48000,
+        "fps": null,
+        "language": "eng",
+        "format_note": "DASH audio",
+        "filesize": null,
+        "container": "m4a_dash",
+        "vcodec": "null",
+        "acodec": "mp4a.40.5",
+        "url": "https://video.fdel12-1.fna.fbcdn.net/v/t42.1790-2/241608607_999620347506129_9076551711095238249_n.mp4?_nc_cat=1&ccb=1-5&_nc_sid=5aebc0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYXVkaW9fYWFjcF82NF9mcmFnXzJfYXVkaW8ifQ==&_nc_ohc=9erIRlf2xE8AX9odp4L&_nc_ht=video.fdel12-1.fna&oh=06c733d859a99db9cb476c0a67891958&oe=61431C97",
+        "http_headers": {
+            "User-Agent": "facebookexternalhit/1.1",
+            "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate",
+            "Accept-Language": "en-us,en;q=0.5"
+        },
+        "format": "999620340839463a - audio only (DASH audio)",
+        "protocol": "https"
+    }),
+    "format": "349834980204173v - 1080x1080 (DASH video)+999620340839463a - audio only (DASH audio)",
+    "format_id": "349834980204173v+999620340839463a",
+    "width": 1080,
+    "height": 1080,
+    "resolution": null,
+    "fps": null,
+    "vcodec": "vp9",
+    "vbr": null,
+    "stretched_ratio": null,
+    "acodec": "mp4a.40.5",
+    "abr": null,
+    "ext": "webm"
+}
